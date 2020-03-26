@@ -1,5 +1,5 @@
 # google-drive-downloader
-Batch files from Google Drive
+Batch download files from Google Drive
 
 ## How To Use
 1) Setup Python on your system
