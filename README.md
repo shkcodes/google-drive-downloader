@@ -8,5 +8,6 @@ Batch download files from Google Drive
 4) Move both the scripts from this repo and the downloaded json file to a single directory
 5) Open `create_download_list.py` and replace `Enter folder ID here` with the folder ID you want to download
 6) Save and run `create_download_list.py`
-7) This will create a `filesList.txt` in your current directory. You can modify this file to remove the files you don't want to download
-8) Run `download_files.py` and wait for the download to complete!
+7) If you are running the script for the first time, it will open your browser window and ask you to grant permissions to you app. Click on `Advanced` and proceed to grant the permission. Re-run `create_download_list.py`
+8) You will end up with `filesList.txt` in your current directory. You can modify this file to remove the files you don't want to download
+9) Run `download_files.py` and wait for the download to complete!
